@@ -10,9 +10,12 @@ export default function Home() {
         </ul>
        
       </div>
+     <div> 
+        <h1 className="relative text-8xl text-amber-950 text-opacity-80 font-extrabold ">Weather app</h1>
+     </div>
 
        
-      <h1 className="relative text-8xl text-amber-950 text-opacity-80 font-extrabold ">Weather app</h1>
+      
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left ">
        <div>
